@@ -1,0 +1,2 @@
+﻿# WC-Out-Of-Stock-Products-Visibility
+ This  woocommerce wordpress plugin adds a settings page to the WordPress admin dashboard where users can choose whether or not to hide out of stock products and whether or not to send them to the end of the products list. If the user chooses to hide out of stock products, the plugin will filter the products array and move all out of stock products to the end of the list.
